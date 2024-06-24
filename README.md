@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)
 ![](https://img.shields.io/badge/SQL_Server-DCDCDC)
+![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-mizrachi)
